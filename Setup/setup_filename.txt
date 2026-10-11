@@ -1,2 +1,2 @@
 [setup_file]
-setup_filename=Setup_BeBe7_TONG_20260701.exe
+setup_filename=Setup_TENShop_20251219.exe
